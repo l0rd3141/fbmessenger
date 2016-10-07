@@ -7,7 +7,7 @@ import time
 from bs4 import BeautifulSoup
 email_id=raw_input("Enter the email: ")
 password=raw_input("Enter your password: ")
-message=raw_input("Enter your message, Hit enter if you want generic message: ")
+message=raw_input("Enter your message, Hit enter if you want a generic message: ")
 #Can take custom message from input
 if(message==""):
     message="Hey,Thanks for your message, I will reply as soon as I can"
