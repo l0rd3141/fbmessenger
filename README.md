@@ -1,8 +1,13 @@
 # fbmessenger
 Automatic reply to message based on new message.
+
 The program must be started and run to return a reply.
+
+
 Uses python2.7
-Issues with python3: DON"T USE PYTHON3
+
+
+Issues with python3: DON'T USE PYTHON3
 
 
 # Instructions:
