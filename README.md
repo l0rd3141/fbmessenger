@@ -32,6 +32,3 @@ Simply run the file by command:
 python2 trueimager.py
 
 
-# Note:
-
-Username of the friend can be obtained by going to your friend's profile
