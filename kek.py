@@ -1,1 +1,0 @@
-print("Random test file")
